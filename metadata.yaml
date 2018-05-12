@@ -1,0 +1,43 @@
+_repo: '---_34013'
+_version: 0.1.0
+alternative_title: Kesshouki
+contributor:
+  translator:
+    agent_name: Futabatei, Shimei
+    aliases:
+    - 二葉亭 四迷
+    - Hasegawa, Tatsunosuke
+    birthdate: 1864
+    deathdate: 1909
+    gutenberg_agent_id: '36661'
+    url: http://www.gutenberg.org/2009/agents/36661
+    wikipedia: http://en.wikipedia.org/wiki/Futabatei_Shimei
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Андреев, Леонид Николаевич
+    - Andreyev, Leonid Nikolayevich
+    - Andreev, Leonid Nikolaevich
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+description: 'Translation of: The Red Laugh'
+gutenberg_issued: '2010-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34013'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PG'
+title: 血笑記
+url: http://www.gutenberg.org/ebooks/34013
