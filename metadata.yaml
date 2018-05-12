@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1871
     wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
 description: 'Translation of: The Red Laugh'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34013#---
 gutenberg_issued: '2010-10-01'
 gutenberg_type: Text
 identifiers:
